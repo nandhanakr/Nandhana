@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)]
 
 # <h1 align="center">Hi 👋, I'm Nandhana K R</h1>
 <h3 align="center">A dedicated full stack developer from India | Passionate about building complete web solutions</h3>
